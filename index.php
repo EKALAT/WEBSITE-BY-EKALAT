@@ -59,7 +59,7 @@
                         <a class="nav-link active me-2" aria-current="page" href="Home.php">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link me-2" href="#">Rooms</a>
+                        <a class="nav-link me-2" href="admin.php">Rooms</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link me-2" href="#">Facilities</a>
