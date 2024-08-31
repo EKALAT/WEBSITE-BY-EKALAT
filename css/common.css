@@ -1,0 +1,29 @@
+* {
+    font-family: 'New Amsterdam', sans-serif;
+}
+
+.h-font {
+    font-family: 'Merienda', cursive;
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+    -moz-appearance: textfield;
+}
+
+.custom-bg {
+    background-color: #16c0e1;
+    border: 1px solid #16c0e1;
+}
+
+.custom-bg:hover {
+    background-color: #ff0000;
+    border-color:#ff0000
+}
